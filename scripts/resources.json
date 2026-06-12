@@ -1,0 +1,17 @@
+[
+    {
+      "name": "web-server",
+      "cpu": 2,
+      "memory": 4
+    },
+    {
+      "name": "api-server",
+      "cpu": 4,
+      "memory": 8
+    },
+    {
+        "name": "database",
+        "cpu": 8,
+        "memory": 32
+      }
+  ]
